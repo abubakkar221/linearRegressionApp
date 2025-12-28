@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.tittle("Linear Regression Web Applicaion")
+st.title("Linear Regression Web Applicaion")
